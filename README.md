@@ -93,8 +93,8 @@ social-media-analytics/
 │   └── create_churn.py
 ├── notebooks/
 │   └── EDA_Notebook.ipynb
-├── dashboards
-│   └── EDA_Notebook.ipynb
+├── dashboard/
+│   └── Social_Media_&_Analytics_Dashboard.pdf
 └── docs/
     └── Full_Insights_Report.pdf
 ```
